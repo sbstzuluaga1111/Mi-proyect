@@ -7,9 +7,11 @@ body{
 
 
 
+/* contornos */
 
-
-
+.esquinas{
+    border-radius: 5%;
+}
 
 
 
@@ -49,7 +51,9 @@ body{
     margin-right: 4%;
 }
 
-
+.abajoForm{
+    padding-top: 5%;
+}
 
 
 /* colores definidos */
