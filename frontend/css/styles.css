@@ -13,7 +13,9 @@ body{
     border-radius: 5%;
 }
 
-
+.ancho{
+  width: 58rem;
+}
 
 
 /* centrado del nav */
