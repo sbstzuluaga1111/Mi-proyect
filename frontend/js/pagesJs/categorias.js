@@ -1,4 +1,4 @@
-const url = 'http://localhost:5000/api/categorias'
+const url = 'http://localhost:8000/api/categorias'
 const tbody = document.getElementById('llenar-categorias')
 
 const cargarTabla = async () =>{
